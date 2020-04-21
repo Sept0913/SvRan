@@ -20,4 +20,4 @@
 
 增加支持 `特定字符串` 功能，适用于操作名称生成！
 
-另外，增加了 [P4715](https://www.luogu.com.cn/problem/P4715) 的数据生成器，修复了 CF1316A 的 $\tt{bug}$，祝生成数据愉快！（大雾
+另外，增加了 [P4715](https://www.luogu.com.cn/problem/P4715) 的数据生成器，修复了 CF1316A 的 bug，祝生成数据愉快！（大雾
